@@ -15,7 +15,12 @@ public class Main {
         System.out.println("print C");
     }
 
+    public static void printE() {
+        System.out.println("print E");
+    }
+
     public static void printD() {
         System.out.println("print D");
     }
+
 }
