@@ -21,6 +21,7 @@ public class Main {
 
     public static void printD() {
         System.out.println("print D");
+        System.out.println("지은 수정");
     }
 
     public static void printF() {
