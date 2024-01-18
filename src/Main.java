@@ -7,4 +7,16 @@ public class Main {
         System.out.println("print A!");
     }
 
+    public static void printB() {
+        System.out.println("print B");
+    }
+
+    public static void printC() {
+        System.out.println("print C");
+    }
+
+    public static void printE() {
+        System.out.println("print E");
+    }
+
 }
