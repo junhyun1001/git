@@ -18,4 +18,8 @@ public class Main {
     public static void printD() {
         System.out.println("print D");
     }
+
+    public static void printE() {
+        System.out.println("print E");
+    }
 }
