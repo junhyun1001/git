@@ -24,4 +24,8 @@ public class Main {
         System.out.println("지은 수정");
     }
 
+    public static void printF() {
+        System.out.println("print F");
+    }
+
 }
