@@ -3,12 +3,17 @@ public class Main {
         System.out.println("Hello world!");
     }
 
+    public static void printA() {
+        System.out.println("print A!");
+    }
+
+
     public static void printB() {
         System.out.println("print B");
     }
 
-    public static void printA() {
-        System.out.println("print A!");
+    public static void printC() {
+        System.out.println("print C");
     }
 
 }
