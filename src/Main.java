@@ -19,4 +19,8 @@ public class Main {
         System.out.println("print E");
     }
 
+    public static void printD() {
+        System.out.println("print D");
+    }
+
 }
