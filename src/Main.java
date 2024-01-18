@@ -15,4 +15,7 @@ public class Main {
         System.out.println("print C");
     }
 
+    public static void printD() {
+        System.out.println("print D");
+    }
 }
