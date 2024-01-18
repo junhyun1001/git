@@ -6,4 +6,9 @@ public class Main {
     public static void printB() {
         System.out.println("print B");
     }
+
+    public static void printA() {
+        System.out.println("print A!");
+    }
+
 }
