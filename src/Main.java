@@ -23,4 +23,8 @@ public class Main {
         System.out.println("print D");
     }
 
+    public static void printF() {
+        System.out.println("print F");
+    }
+
 }
