@@ -28,4 +28,8 @@ public class Main {
         System.out.println("print F");
     }
 
+    public static void printG() {
+        System.out.println("print G");
+    }
+
 }
