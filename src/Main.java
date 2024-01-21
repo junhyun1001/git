@@ -36,4 +36,8 @@ public class Main {
         System.out.println("print H");
     }
 
+    public static void printI() {
+        System.out.println("print I");
+    }
+
 }
