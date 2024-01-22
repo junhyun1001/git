@@ -11,25 +11,4 @@ public class Main {
         System.out.println("print B");
     }
 
-    public static void printC() {
-        System.out.println("print C");
-    }
-
-    public static void printE() {
-        System.out.println("print E");
-    }
-
-    public static void printD() {
-        System.out.println("print D");
-        System.out.println("지은 수정");
-    }
-
-    public static void printF() {
-        System.out.println("print F");
-    }
-
-    public static void printG() {
-        System.out.println("print G");
-    }
-
 }
